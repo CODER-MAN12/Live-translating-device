@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: vdutl-egs59
+created: 2026-10-04T18:51:59-07:00
