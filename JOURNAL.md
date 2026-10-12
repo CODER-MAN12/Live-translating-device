@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 3 | 24h | 7 |
+| Week 1 | Tier 3 | 25h | 7 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 4. [2026-10-09 – i have started to put the parts together but i learnt that some parts aren't in the pcb editor so i'm still learning new things about Kicad PCB editor. I will try to finish this design by Sunday](#2026-10-09-i-have-started-to-put-the-parts-together-but-i-le)
 5. [2026-10-10 – This took me surprisingly long Because for some reason i had to import o many of the parts i needed for PCB editor and i forgot keep saving the footprints i was assigning to each PCB in the schematics](#2026-10-10-this-took-me-surprisingly-long-because-for-some-r)
 6. [2026-10-10 – SO i learned more shortcuts](#2026-10-10-so-i-learned-more-shortcuts)
-7. [2026-10-11 – ![Screenshot 2026-10-11 142849](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/d1a48a09a62438ab6e37635c15c253b1413da838eb02d3c4bdfa1586c7ff55d6.png)](#2026-10-11-screenshot-2026-10-11-142849httpshalflifehackclub)
+7. [2026-10-11 – ![Screenshot 2026-10-11 192649](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/cc6be923d642d95c686c5aff3c36a1e81ebf386667647a939003378b90b30cdb.png)](#2026-10-11-screenshot-2026-10-11-192649httpshalflifehackclub)
 
 ## Design
 
@@ -102,9 +102,11 @@ SO i learned more shortcuts
 
 ![Screenshot 2026-10-10 165607](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/7689a33598391334d75340a1bdad48c96ce0f41cdd9b290f1f42fcce040a2491.png)
 
-### 2026-10-11 – ![Screenshot 2026-10-11 142849](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/d1a48a09a62438ab6e37635c15c253b1413da838eb02d3c4bdfa1586c7ff55d6.png)
+### 2026-10-11 – ![Screenshot 2026-10-11 192649](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/cc6be923d642d95c686c5aff3c36a1e81ebf386667647a939003378b90b30cdb.png)
 
-**11h**
+**12h**
+
+![Screenshot 2026-10-11 192649](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/cc6be923d642d95c686c5aff3c36a1e81ebf386667647a939003378b90b30cdb.png)
 
 ![Screenshot 2026-10-11 142849](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/d1a48a09a62438ab6e37635c15c253b1413da838eb02d3c4bdfa1586c7ff55d6.png)
 
