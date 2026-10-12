@@ -24,7 +24,7 @@
 | MAX98357A | — | 1 | $0.00 | $0.00 | — |
 | PCM5102A | — | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$0.00** | — |
+| **Tax & shipping** | — | — | — | **$75.00** | — |
+| **Total** | — | — | — | **$75.00** | — |
 
-$100.00 left of the tier's funding.
+$25.00 left of the tier's funding.
