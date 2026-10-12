@@ -12,3 +12,5 @@ A compact, custom-designed hardware PCB for a real-time live translating device 
 * **Manufacturing Ready:** Verified KiCad DRC configuration tailored for seamless fabrication with PCBWay.
 
 ---
+
+![Live Translator PCB](board.png)
