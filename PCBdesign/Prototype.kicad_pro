@@ -72,7 +72,47 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
+          "shorting_items|113000000|23000000|60566600-5265-4e3b-bb56-9e4ad92cc2c7|7ba9ed34-b2f1-4294-a39f-e4f637e9e7ae",
+          ""
+        ],
+        [
+          "shorting_items|113000000|71700000|6389337d-a4dd-4a46-b503-1587ed91f1ef|6761c43b-1c48-47bc-9e10-a1c64e331ff1",
+          ""
+        ],
+        [
+          "shorting_items|118500000|21500000|0d86a5ff-6942-46af-9d7d-4c45079ce120|1f4f10fd-b9d2-4ac6-b555-09b25b901812",
+          ""
+        ],
+        [
+          "shorting_items|119580000|21420000|1501a7fe-757c-49d6-88aa-200c3151c983|385c73ca-1cd0-435d-bcf1-53c6b63bf1ce",
+          ""
+        ],
+        [
+          "shorting_items|121500000|71000000|081212b8-977d-45c2-841f-06e4c5199326|d40bbb4b-8299-49be-950f-c315bb62dbea",
+          ""
+        ],
+        [
           "shorting_items|126000000|78500000|1121622f-fdb9-4e2e-a4d0-1ecebb65cf36|f03fb8d1-b0a6-4cca-ae42-6763ac673524",
+          ""
+        ],
+        [
+          "solder_mask_bridge|113000000|23000000|7ba9ed34-b2f1-4294-a39f-e4f637e9e7ae|60566600-5265-4e3b-bb56-9e4ad92cc2c7",
+          ""
+        ],
+        [
+          "solder_mask_bridge|118500000|21500000|0d86a5ff-6942-46af-9d7d-4c45079ce120|1f4f10fd-b9d2-4ac6-b555-09b25b901812",
+          ""
+        ],
+        [
+          "solder_mask_bridge|119580000|21420000|1501a7fe-757c-49d6-88aa-200c3151c983|385c73ca-1cd0-435d-bcf1-53c6b63bf1ce",
+          ""
+        ],
+        [
+          "solder_mask_bridge|121500000|71000000|081212b8-977d-45c2-841f-06e4c5199326|d40bbb4b-8299-49be-950f-c315bb62dbea",
+          ""
+        ],
+        [
+          "solder_mask_bridge|126000000|78500000|1121622f-fdb9-4e2e-a4d0-1ecebb65cf36|f03fb8d1-b0a6-4cca-ae42-6763ac673524",
           ""
         ],
         [
@@ -620,12 +660,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
