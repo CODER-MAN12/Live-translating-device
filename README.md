@@ -38,3 +38,4 @@ To manufacture or assemble the device:
 This project is licensed under the **[Insert License, e.g., MIT / CERN OHL / CC BY-NC]** License. See the `LICENSE` file for details.
 <img width="749" height="860" alt="board" src="https://github.com/user-attachments/assets/4382205b-1b31-462d-9fb0-31396add0259" />
 
+<img width="629" height="672" alt="Screenshot 2026-10-11 000358" src="https://github.com/user-attachments/assets/315457ce-05c6-4ad9-a885-a07101784bc7" />
