@@ -94,7 +94,7 @@
 		(descr "TQFN, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0136.PDF (T1633-5), https://pdfserv.maximintegrated.com/land_patterns/90-0032.PDF)")
 		(tags "TQFN NoLead")
 		(property "Reference" "U4"
-			(at -3.19 -0.81 180)
+			(at -3.19 -0.81 0)
 			(layer "F.SilkS")
 			(uuid "2aff6757-51c6-4f70-9de9-d436294858e6")
 			(effects
@@ -105,7 +105,7 @@
 			)
 		)
 		(property "Value" "MAX98357A"
-			(at -4.69 -0.81 180)
+			(at -4.69 -0.81 0)
 			(layer "F.Fab")
 			(uuid "257cff25-f8a7-4f7a-bfa5-38a7fe5344bf")
 			(effects
@@ -679,6 +679,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -687,6 +688,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/MAX98357AETE+T.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -180 -180)
 			)
 		)
 	)
@@ -2357,6 +2369,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Nidec_Copal_CAS-120A.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2365,6 +2378,29 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/OLED 128 x 32 Display Assembly.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/User Library-cas-120a1.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -3581,6 +3617,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3589,6 +3626,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/SJ-3523-SMT-TR--3DModel-STEP-1.STEP"
+			(offset
+				(xyz 0 6 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -180 -0)
 			)
 		)
 	)
@@ -4014,13 +4062,24 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x05_P2.54mm_Vertical.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/4410 Micro Lipo USBC.step"
+			(offset
+				(xyz -17 5.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -4858,6 +4917,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Display.3dshapes/ER_OLEDM0.91_1x-I2C.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4866,6 +4926,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/OLED 128 x 32 Display Assembly.step"
+			(offset
+				(xyz 4 -16.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -5028,15 +5099,15 @@
 		)
 	)
 	(gr_rect
-		(start 83 11)
-		(end 178.5 103.5)
+		(start 93 12)
+		(end 164.5 105.5)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "6b34fe27-baaf-4dbd-a158-e44db89e8862")
+		(uuid "2898d41f-7b13-402d-957a-3c33be4be930")
 	)
 	(segment
 		(start 123.5 60.5)
