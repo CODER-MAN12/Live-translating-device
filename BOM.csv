@@ -1,6 +1,6 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 AudioJack2,1,DigiKey,$0.50,$0.50,https://www.digikey.com/en/products/filter/audio-jacks/394
-Adafruit Micro-Lipo,1,Adafruit,$0.00,$0.00,https://www.adafruit.com/product/1904
+Adafruit Micro-Lipo,1,Adafruit,$5.95,$5.95,https://www.adafruit.com/product/1904
 Speaker,1,Adafruit,$0.00,$0.00,https://www.adafruit.com/product/3923
 SPH0645LM4H,1,Adafruit,$0.00,$0.00,https://www.adafruit.com/product/3421
 R 10k,5,DigiKey,$0.00,$0.00,https://www.digikey.com/en/products/detail/yageo/RC0805JR-0710KL/727282
