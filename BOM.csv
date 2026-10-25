@@ -1,14 +1,14 @@
 part,qty,supplier,cost,total,link
-AudioJack2,1,DigiKey,0.50,0.50,https://www.digikey.com/en/products/filter/audio-jacks/394
-Adafruit Micro-Lipo,1,Adafruit,5.95,5.95,https://www.adafruit.com/product/1904
-Speaker,1,Adafruit,3.95,3.95,https://www.adafruit.com/product/3923
-SPH0645LM4H,1,Adafruit,6.95,6.95,https://www.adafruit.com/product/3421
-R 10k,5,DigiKey,0.01,0.05,https://www.digikey.com/en/products/detail/yageo/RC0805JR-0710KL/727282
-SW_Nidec_CAS-120A1,1,DigiKey,0.85,0.85,https://www.digikey.com/en/products/detail/nidec-components-corporation/CAS-120A1/1004126
-ESP32-S3-WROOM-2,1,DigiKey,3.80,3.80,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8/15200089
-ER_OLEDM0.91_1x-I2C,1,BuyDisplay,3.50,3.50,https://www.buydisplay.com/default/0-91-inch-128x32-oled-display-module-i2c-serial-spi
-AP2112K-3.3,1,DigiKey,0.45,0.45,https://www.digikey.com/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746
-MAX98357A,1,Adafruit,5.95,5.95,https://www.adafruit.com/product/3006
-PCM5102A,1,Amazon,4.00,4.00,https://www.amazon.com/dp/B07Q6S8SFL
-PCBWay Prototype PCB (5-pack),1,PCBWay,5.00,5.00,https://www.pcbway.com/orderonline.aspx
-Shipping & Tax,1,Multiple Vendors,75.00,75.00,
+AudioJack2,1,DigiKey,0.50,0.50,https://digikey.com
+Adafruit Micro-Lipo,1,Adafruit,5.95,5.95,https://adafruit.com
+Speaker,1,Adafruit,3.95,3.95,https://adafruit.com
+SPH0645LM4H,1,Adafruit,6.95,6.95,https://adafruit.com
+R 10k,5,DigiKey,0.01,0.05,https://digikey.com
+SW_Nidec_CAS-120A1,1,DigiKey,0.85,0.85,https://digikey.com
+ESP32-S3-WROOM-2,1,DigiKey,3.80,3.80,https://digikey.com
+ER_OLEDM0.91_1x-I2C,1,BuyDisplay,3.50,3.50,https://buydisplay.com
+AP2112K-3.3,1,DigiKey,0.45,0.45,https://digikey.com
+MAX98357A,1,Adafruit,5.95,5.95,https://adafruit.com
+PCM5102A,1,Amazon,4.00,4.00,https://amazon.com
+PCBWay Prototype PCB (5-pack),1,PCBWay,5.00,5.00,https://pcbway.com
+Shipping & Tax,1,Multiple Vendors,200.00,200.00,
