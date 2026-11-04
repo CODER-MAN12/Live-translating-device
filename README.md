@@ -1,6 +1,4 @@
-# Project Name: [Insert Device Name]
 
-This repository contains the design, manufacturing, and production files for the **[Insert Device Name]**. 
 
 The **firmware is currently in development** and will be published to this repository as soon as it is ready.
 
