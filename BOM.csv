@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Item,Qty,Supplier,Link,Cost/item,Total Cost
 AudioJack2,1,DigiKey Canada,https://www.digikey.ca/en/products/filter/audio-jacks/394,$0.50,$0.50
 Adafruit Micro-Lipo,1,PiShop.ca / DigiKey,https://www.pishop.ca/product/adafruit-micro-lipo-usb-liion-lipoly-charger-v1/,$5.95,$5.95
@@ -13,3 +14,19 @@ PCM5102A,1,Amazon CA,https://www.amazon.ca/dp/B07Q6S8SFL,$6.99,$6.99
 PCBWay Prototype PCB (5-pack),1,PCBWay,https://www.pcbway.com/orderonline.aspx,$55.00,$55.00
 Estimated total shipping,1,Consolidated (DigiKey CA + Domestic),,,$20.00
 TOTAL,,,,, $111.68
+=======
+Part,Qty,Description,Vendor,Link,Price
+AudioJack2,1,3.5mm Audio Jack,DigiKey,https://www.digikey.ca/en/products/filter/audio-jacks/394,0.50
+Adafruit Micro-Lipo,1,USB LiIon/LiPoly Charger,PiShop.ca,https://www.pishop.ca/product/adafruit-micro-lipo-usb-liion-lipoly-charger-v1/,5.95
+Speaker,1,Mono Enclosed Speaker 3W 4 Ohm,PiShop.ca,https://www.pishop.ca/product/mono-enclosed-speaker-3w-4-ohm/,3.95
+SPH0645LM4H,1,I2S MEMS Microphone Module,DigiKey,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3421/7033501,6.95
+R 10k,5,10k Resistor 0805,DigiKey,https://www.digikey.ca/en/products/detail/yageo/RC0805JR-0710KL/727282,0.25
+SW_Nidec_CAS-120A1,1,SPDT Switch,DigiKey,https://www.digikey.ca/en/products/detail/nidec-components-corporation/CAS-120A1/1004126,0.85
+ESP32-S3-WROOM-2,1,ESP32-S3 Microcontroller Module,DigiKey,https://www.digikey.ca/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8/15200089,3.80
+ER_OLEDM0.91_1x-I2C,1,0.91 inch 128x32 OLED Display,BuyDisplay,https://www.buydisplay.com/default/0-91-inch-128x32-oled-display-module-i2c-serial-spi,3.50
+AP2112K-3.3,1,3.3V LDO Voltage Regulator,DigiKey,https://www.digikey.ca/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746,0.45
+MAX98357A,1,I2S Amplifier Module,Amazon CA,https://www.amazon.ca/dp/B0738NLFTG,3.49
+PCM5102A,1,I2S DAC Module,Amazon CA,https://www.amazon.ca/dp/B07Q6S8SFL,6.99
+PCB,1,PCBWay Prototype PCB 5-pack,PCBWay,https://www.pcbway.com/orderonline.aspx,55.00
+Shipping,1,Consolidated Standard Shipping,DigiKey,https://www.digikey.ca,20.00
+>>>>>>> ba2e97ec61125ca28fb8e52a190c23ad3d198f9b
