@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal,1,AudioJack2,
+J2,PinHeader_1x05_P2.54mm_Vertical,1,Adafruit Micro-Lipo,
+LS1,Speaker_CUI_CMR-1206S-67,1,Speaker,
+MK2,Knowles_SPH0645LM4H-6_3.5x2.65mm,1,SPH0645LM4H,
+"R1, R2, R3, R4, R5",0402,5,R 10k,
+SW2,Nidec_Copal_CAS-120A,1,SW_Nidec_CAS-120A1,
+U1,ESP32-S3-WROOM-2,1,ESP32-S3-WROOM-2,
+U2,ER_OLEDM0.91_1x-I2C,1,ER_OLEDM0.91_1x-I2C,
+U3,SOT-23-5,1,AP2112K-3.3,
+U4,TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm,1,MAX98357A,
+U5,TSSOP-20_4.4x6.5mm_P0.65mm,1,PCM5102A,
