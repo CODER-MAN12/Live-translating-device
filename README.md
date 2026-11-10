@@ -54,3 +54,8 @@ This project is licensed under the **[Insert License, e.g., MIT / CERN OHL / CC 
 | MAX98357A | 1 | $5.95 | $5.95 | Adafruit | [Link](https://www.adafruit.com/product/3006) |
 | PCM5102A | 1 | $4.00 | $4.00 | Amazon | [Link](https://www.amazon.com/dp/B07Q6S8SFL) |
 | PCBWay Prototype PCB (5-pack) | 1 | $55.00 | $55.00 | PCBWay | [Link](https://www.pcbway.com/orderonline.aspx) |
+
+
+ALSO MY CART IS ONLY LESS THAN 100 DOLLARS BECAUSE PCB- WAY DIDNT GIVE ME THE PRCES OF THE PARTS YET !!!!!!!!!!!!!!
+<img width="900" height="826" alt="Screenshot 2026-11-08 175436" src="https://github.com/user-attachments/assets/251f2949-85b7-46b8-bda4-8bbfcede8dd3" />
+
