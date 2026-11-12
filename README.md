@@ -2,13 +2,6 @@
 
 The **firmware is currently in development** and will be published to this repository as soon as it is ready.
 
-## 📁 Repository Structure
-
-The project is organized into the following main directories:
-
-* **`/cas` (CAD/Enclosure Files):** Contains the raw 3D modeling, casing, and mechanical design files (e.g., SolidWorks, Fusion 360, STEP, or STL files).
-* **`/publish` (Production Outputs):** Contains the finalized, ready-to-use manufacturing files (e.g., Gerber files for PCBs, 3D printing G-code, or production PDFs).
-* **`/firmware` (Coming Soon):** This directory will house the source code and compiled binaries for the device hardware.
 
 ## 🚀 Getting Started
 
