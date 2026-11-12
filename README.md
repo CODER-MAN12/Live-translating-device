@@ -2,9 +2,6 @@
 
 The **firmware is currently in development** and will be published to this repository as soon as it is ready.
 
-
-## 🚀 Getting Started
-
 ### 1. Hardware & Enclosure
 To view or modify the physical design of the device:
 * Navigate to the `/cas` folder.
