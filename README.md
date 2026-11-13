@@ -45,4 +45,5 @@ To manufacture or assemble the device:
 
 ALSO MY CART IS ONLY LESS THAN 100 DOLLARS BECAUSE PCB- WAY DIDNT GIVE ME THE PRCES OF THE PARTS YET !!!!!!!!!!!!!!
 <img width="900" height="826" alt="Screenshot 2026-11-08 175436" src="https://github.com/user-attachments/assets/251f2949-85b7-46b8-bda4-8bbfcede8dd3" />
+<img width="264" height="298" alt="image" src="https://github.com/user-attachments/assets/395dc8fb-d53a-4281-be24-7a90093c6177" />
 
