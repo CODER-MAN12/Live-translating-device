@@ -2,23 +2,13 @@
 
 The **firmware is currently in development** and will be published to this repository as soon as it is ready.
 
-### 1. Hardware & Enclosure
-To view or modify the physical design of the device:
-* Navigate to the `/cas` folder.
-* Open the source files using your preferred CAD software
-
-### 2. Manufacturing & Assembly
-To manufacture or assemble the device:
-* Navigate to the `/publish` folder.
-* Use the included production assets for PCB fabrication or 3D printing.
-
 ## 🛠️ Roadmap & Current Status
 
-- [x] Initial hardware concept design
-- [x] CAS/CAD modeling and assembly validation
-- [x] Generate production-ready publish files
-- [ ] **Firmware development (In Progress)**
-- [ ] Integration testing and final release
+ Initial hardware concept design
+ CAS/CAD modeling and assembly validation
+ Generate production-ready publish files
+ **Firmware development (In Progress)**
+ Integration testing and final release
 
 
 <img width="749" height="860" alt="board" src="https://github.com/user-attachments/assets/4382205b-1b31-462d-9fb0-31396add0259" />
