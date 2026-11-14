@@ -2,7 +2,7 @@
 
 The **firmware is currently in development** and will be published to this repository as soon as it is ready.
 
-## 🛠️ Roadmap & Current Status
+##  Roadmap & Current Status
 
  Initial hardware concept design
  CAS/CAD modeling and assembly validation
@@ -15,7 +15,7 @@ The **firmware is currently in development** and will be published to this repos
 
 <img width="629" height="672" alt="Screenshot 2026-10-11 000358" src="https://github.com/user-attachments/assets/315457ce-05c6-4ad9-a885-a07101784bc7" />
 
-## 🛒 Bill of Materials (BOM)
+##  Bill of Materials (BOM)
 
 | Part | Qty | Unit | Total | Vendor | Link |
 | :--- | :---: | :---: | :---: | :--- | :--- |
@@ -36,4 +36,5 @@ The **firmware is currently in development** and will be published to this repos
 ALSO MY CART IS ONLY LESS THAN 100 DOLLARS BECAUSE PCB- WAY DIDNT GIVE ME THE PRCES OF THE PARTS YET !!!!!!!!!!!!!!
 <img width="900" height="826" alt="Screenshot 2026-11-08 175436" src="https://github.com/user-attachments/assets/251f2949-85b7-46b8-bda4-8bbfcede8dd3" />
 <img width="264" height="298" alt="image" src="https://github.com/user-attachments/assets/395dc8fb-d53a-4281-be24-7a90093c6177" />
+BTW ALSO YOU NEED TO BUY THE ADAFRUIT MICRO LIPO BATTERY CHAGER BECAUSE I WILL SOLDER IT ON MY SELF ON TO A 5 PIN HEADER
 
