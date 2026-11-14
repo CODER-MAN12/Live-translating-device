@@ -11,7 +11,8 @@ The **firmware is currently in development** and will be published to this repos
  Integration testing and final release
 
 
-<img width="749" height="860" alt="board" src="https://github.com/user-attachments/assets/4382205b-1b31-462d-9fb0-31396add0259" />
+<img width="729" height="861" alt="image" src="https://github.com/user-attachments/assets/71e5ef4a-9c2a-4e5d-a387-645ba20e8104" />
+
 
 <img width="629" height="672" alt="Screenshot 2026-10-11 000358" src="https://github.com/user-attachments/assets/315457ce-05c6-4ad9-a885-a07101784bc7" />
 
