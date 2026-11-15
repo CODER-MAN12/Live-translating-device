@@ -1,6 +1,7 @@
 
 
-The **firmware is currently in development** and will be published to this repository as soon as it is ready.
+The **firmware is currently in development** and will be published to this repository as soon as it is ready. But for now there is a demo code
+
 
 ##  Roadmap & Current Status
 
