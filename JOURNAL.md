@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 9h | 3 |
+| Week 2 | Tier 1 | 9.5h | 3 |
 
 ## Contents
 
 1. [2026-10-13: I have just started the turret of my robot for my robotics club which is very exciting but also tiring i have also started to plan out on how to make the case for my live translating device. So i need](#2026-10-13-i-have-just-started-the-turret-of-my-robot-for-my)
 2. [2026-10-14: so today i started to work on a platform for the turret of my robot that shoots 3.7 in balls. Basically at the start i was working on a bearing stack turret but my coach decided it was better to use c](#2026-10-14-so-today-i-started-to-work-on-a-platform-for-the-)
-3. [2026-11-15: so i sent the 2d models to a cnc company and they cnc made the the turret file right now the turret is at schools but so are the gears and they all work i will get more pictures and videos when i get](#2026-11-15-so-i-sent-the-2d-models-to-a-cnc-company-and-they)
+3. [2026-11-15: ![Screenshot 2026-11-14 113358](https://halflife.hackclub-assets.com/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/6aa60a22b7165ae8a6e138f580468cc0c39dc178c51e850ddd9c37577e27375f.png)](#2026-11-15-screenshot-2026-11-14-113358httpshalflifehackclub)
 
 ## Design
 
@@ -50,9 +50,11 @@ so today i started to work on a platform for the turret of my robot that shoots 
 
 ## Build
 
-### 2026-11-15: so i sent the 2d models to a cnc company and they cnc made the the turret file right now the turret is at schools but so are the gears and they all work i will get more pictures and videos when i get
+### 2026-11-15: ![Screenshot 2026-11-14 113358](https://halflife.hackclub-assets.com/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/6aa60a22b7165ae8a6e138f580468cc0c39dc178c51e850ddd9c37577e27375f.png)
 
-**2h**
+**2.5h**
+
+![Screenshot 2026-11-14 113358](https://halflife.hackclub-assets.com/sessions/qudF2uGoefaEKMfrePSRUaDMW4MwV76q/6aa60a22b7165ae8a6e138f580468cc0c39dc178c51e850ddd9c37577e27375f.png)
 
 so i sent the 2d models to a cnc company and they cnc made the the turret file right now the turret is at schools but so are the gears and they all work i will get more pictures and videos when i get to school on Monday but i also made these prototypes to see if the holes matched with the turret.
 
