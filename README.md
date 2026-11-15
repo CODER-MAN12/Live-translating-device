@@ -23,7 +23,7 @@ THE CODE RIGHT NOW IS AI Because i am still learning how to code hardware stuff!
 | Part | Qty | Unit | Total | Vendor | Link |
 | :--- | :---: | :---: | :---: | :--- | :--- |
 | AudioJack2 | 1 | $0.50 | $0.50 | DigiKey | [Link](https://www.digikey.com/en/products/filter/audio-jacks/394) |
-| Adafruit Micro-Lipo | 1 | $5.95 | $5.95 | Adafruit | [Link]([https://www.adafruit.com/product/1904](https://www.aliexpress.com/item/1005013135521530.html?spm=a2g0o.cart.0.0.6d8038daVLqc9C&mp=1&pdp_npi=6%40dis%21CAD%21CAD+13.08%21CAD+11.38%21%21CAD+11.38%21%21%21%40210327ef17947724709084493e0d19%2112000060381158609%21ct%21CA%218455289665%21%211%210%21)) |
+| Adafruit Micro-Lipo | 1 | $5.95 | $5.95 | Adafruit | [Link]([https://www.adafruit.com/product/1904](https://www.aliexpress.com/item/1005013135521530.html?spm=a2g0o.cart.0.0.6d8038daVLqc9C&mp=1&pdp_npi=6%40dis%21CAD%21CAD+13.08%21CAD+11.38%21%21CAD+11.38%21%21%21%40210327ef17947724709084493e0d19%2112000060381158609%21ct%21CA%218455289665%21%211%210%21) |
 | Speaker | 1 | $3.95 | $3.95 | Adafruit | [Link](https://www.adafruit.com/product/3923) |
 | SPH0645LM4H | 1 | $6.95 | $6.95 | Adafruit | [Link](https://www.adafruit.com/product/3421) |
 | R 10k | 5 | $0.05 | $0.25 | DigiKey | [Link](https://www.digikey.com/en/products/detail/yageo/RC0805JR-0710KL/727282) |
