@@ -1,6 +1,7 @@
 
 
 The **firmware is currently in development** and will be published to this repository as soon as it is ready. But for now there is a demo code
+THE CODE RIGHT NOW IS AI Because i am still learning how to code hardware stuff!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ##  Roadmap & Current Status
